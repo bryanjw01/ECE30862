@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Bryan Jimenez\
+Professor Midkiff\
+ECE 30862\
+HW6b\
+\
+1. C B: 0\
+\
+2. C B: 1\
+    C D: 0\
+\
+3. C B: 2\
+\
+4. C B: 3\
+    C D: 1\
+\
+5. ~Base: 2\
+\
+6. D D: 1\
+    ~Base: 3\
+\
+7. ~Base: 3\
+\
+8. Nothing\
+\
+9. Nothing\
+\
+10. D D: 1\
+      ~Base: 3\
+      ~Base: 2}
